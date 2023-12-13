@@ -3,6 +3,7 @@
 
 void main(void){
 	int nj,casillas[6]={0,0,0,0,0,0},dado,turno=-1,seis,come,i;
+   printf();
    printf("¿Cuantos jugadores?");
    scanf("%d",&nj);
    do
